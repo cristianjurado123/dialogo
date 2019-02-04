@@ -1,0 +1,2 @@
+# dialogo
+simulacro
